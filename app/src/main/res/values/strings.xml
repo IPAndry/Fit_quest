@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Карта заданий</string>
+
+    <!--Вопросы-->
+    <string name="question1">"Как рассшифровывается аббревиатура ФИТ?"</string>
+    <string name="question2">"Какие из нижеприведенных специальностей относятся к ФИТ?"</string>
+    <string name="question4">"Как зовут нашего достопочтенного и многоуважаемого декана?"</string>
+    <string name="question3">"Вопрос-испытание (Участок 1)"</string>
+    <string name="question5">"Что из этого является языком программирования?"</string>
+    <string name="question6">"Дата создания ФИТ"</string>
+    <string name="question7">"Бит может принимать значения"</string>
+    <string name="question8">"Вопрос-испытание (Участок 2)?"</string>
+    <string name="question9">"Все языки программирования можно разделить на три категории"</string>
+    <string name="question10">"Что такое алгоритм?"</string>
+    <string name="question11">"В С++ существует следующие логические операции"</string>
+    <string name="question12">"Вопрос-испытание (Участок 3)"</string>
+    <string name="question13">"Что такое программа?"</string>
+    <string name="question14">"Что из нижеприведенного является библиотекой языка С++?"</string>
+    <string name="question15">"К основным столпам ООП относятся"</string>
+    <string name="question16">"Вопрос-испытание (Участок 4)"</string>
+    <string name="question17">"К семиуровневой модели OSI относятся уровни"</string>
+    <string name="question18">"Базовая единица хранения информации?"</string>
+    <string name="question19">"1 байт равен"</string>
+    <string name="question20">"Вопрос-испытание (Участок 5)"</string>
+
+    <!--Ответы 1-->
+    <string name="q1Incorrect1">"ФИТнес"</string>
+    <string name="q1Incorrect2">"Факультет информатики и технологий"</string>
+    <string name="q1Incorrect3">"Факультет информативных технологий"</string>
+    <string name="q1correct">"Факультет информационных технологий"</string>
+
+    <!--Ответы 2-->
+    <string name="q2correct1">"Информационные системы и технологии"</string>
+    <string name="q2correct2">"Программное обеспечение информационной безопасности мобильных систем"</string>
+    <string name="q2correct3">"Дизайн электронных и веб-изданий"</string>
+    <string name="q2Incorrect">"Технология полиграфических производств"</string>
+
+    <!--Ответы 4-->
+    <string name="q4correct1">"Шиман Дмитрий Васильевич"</string>
+    <string name="q4Incorrect1">"Шаман Дмитрий Васильевич"</string>
+    <string name="q4Incorrect2">"Шиман Дмитрий Владимирович"</string>
+    <string name="q4Incorrect3">"Смелов Владимир Владиславович"</string>
+
+    <!--Ответы 3-->
+    <string name="q3correct">"Ответ"</string>
+
+    <!--Ответы 5-->
+    <string name="q5Incorrect1">"HTML"</string>
+    <string name="q5Incorrect2">"XML"</string>
+    <string name="q5correct">"Nemerle"</string>
+    <string name="q5Incorrect3">"CI"</string>
+    <!--string name="title_activity_main2">Main2Activity</string-->
+
+    <!--Ответы 6-->
+    <string name="q6Incorrect1">"21 декабря 2012"</string>
+    <string name="q6Incorrect2">"14 мая 2011 года"</string>
+    <string name="q6Incorrect3">"3 мая 2003 года"</string>
+    <string name="q6correct">"3 мая 2014 года"</string>
+
+    <!--Ответы 7-->
+    <string name="q7correct1">"1"</string>
+    <string name="q7correct2">"0"</string>
+    <string name="q7correct3">"1 и 0"</string>
+    <string name="q7Incorrect">"Что это?"</string>
+
+    <!--Ответы 8-->
+    <string name="q8correct">"Ответ"</string>
+
+    <!--Ответы 9-->
+    <string name="q9correct1">"Низкого"</string>
+    <string name="q9correct2">"Высокого"</string>
+    <string name="q9correct3">"Сверхвысокого"</string>
+    <string name="q9Incorrect">"Ультравысокого"</string>
+
+    <!--Ответы 10-->
+    <string name="q10Incorrect1">"Часть аббревиатуры ОАиП"</string>
+    <string name="q10Incorrect2">"Величина, которая определяются динамически во время работы программы"</string>
+    <string name="q10Incorrect3">"Описание реализации общих операций, таких как обработка ввода-вывода и строк, в языке программирования Си"</string>
+    <string name="q10correct">"Система последовательных операций для решения какой-либо задачи"</string>
+
+    <!--Ответы 11-->
+    <string name="q11correct1">"Логическая операция И"</string>
+    <string name="q11correct2">"Логическая операция ИЛИ"</string>
+    <string name="q11correct3">"Логическая операция НЕ"</string>
+    <string name="q11Incorrect">"Логическая операция ДА"</string>
+
+    <!--Ответы 12-->
+    <string name="q12correct">"Ответ"</string>
+
+    <!--Ответы 13-->
+    <string name="q13Incorrect1">"Идентифицируемая уникальным веб-адресом программная система со стандартизированными интерфейсами"</string>
+    <string name="q13Incorrect2">"Последовательность букв, цифр или нажатий клавиш, которая используется в компьютерных играх для добавления чего-либо полезного, но при этом не документирована"</string>
+    <string name="q13Incorrect3">"Когда нажимаешь на штуку на этом ваше рабочем столе и оно запускается, вот"</string>
+    <string name="q13correct">"Последовательность команд, которую выполняет компьютер в процессе обработки данных"</string>
+
+    <!--Ответы 14-->
+    <string name="q14correct1">"iostream"</string>
+    <string name="q14correct2">"sstream"</string>
+    <string name="q14correct3">"fstream"</string>
+    <string name="q14Incorrect">"chillstreamspositivity"</string>
+
+    <!--Ответы 15-->
+    <string name="q15correct1">"Инкапсуляция"</string>
+    <string name="q15correct2">"Наследование"</string>
+    <string name="q15correct3">"Полиморфизм"</string>
+    <string name="q15Incorrect">"Дарвинизм"</string>
+
+    <!--Ответы 16-->
+    <string name="q16correct">"Ответ"</string>
+
+    <!--Ответы 17-->
+    <string name="q17correct1">"Физический"</string>
+    <string name="q17correct2">"Сетевой"</string>
+    <string name="q17correct3">"Сеансовый"</string>
+    <string name="q17Incorrect">"КаНаЛьНыЙ"</string>
+
+    <!--Ответы 18-->
+    <string name="q18Incorrect1">"Бит"</string>
+    <string name="q18Incorrect2">"Бат"</string>
+    <string name="q18Incorrect3">"Бут"</string>
+    <string name="q18correct">"Байт"</string>
+
+    <!--Ответы 19-->
+    <string name="q19Incorrect1">"255 бит"</string>
+    <string name="q19Incorrect2">"256 бит"</string>
+    <string name="q19Incorrect3">"7 бит"</string>
+    <string name="q19correct">"8 бит"</string>
+
+    <!--Ответы 20-->
+    <string name="q20correct">"Ответ"</string>
+
+</resources>
